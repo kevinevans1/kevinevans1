@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Enterpise Scale and AKS in Azure ☁️
-- 🌱 I’m currently learning Bicep 💪 & Enterprise Scale 🏗️
+- 🔭 I’m currently working on Azure Landing Zones and AKS in Azure ☁️
+- 🌱 I’m currently learning Bicep 💪 & Terraform 🏗️
 - 💬 Ask me about Azure infrastructure practices 🛠️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinevans01/) /
                        [Blog](https://net-runner.io)
