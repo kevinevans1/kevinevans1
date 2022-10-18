@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bicep 💪 & Terraform 🏗️**
 
-- 💬 Ask me about ** Azure infrastructure \ IaC practices 🛠️**
+- 💬 Ask me about **Azure infrastructure \ IaC practices 🛠️**
 
 - ⚡ Fun fact **Movie Buff 🎥**
 
