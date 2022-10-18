@@ -16,7 +16,7 @@
 <a href="https://twitter.com/thekevinevans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekevinevans" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://uk.linkedin.com/in/kevinevans01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/kevinevans01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtube.com/streamingclouds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/streamingclouds" height="30" width="40" /></a>
-<a href="https://discord.gg/community.streamingclouds.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="community.streamingclouds.io" height="30" width="40" /></a>
+<a href="https://discord.gg/QUTvjv42JM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QUTvjv42JM" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
