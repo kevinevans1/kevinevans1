@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/thekevinevans" target="blank"><img src="https://img.shields.io/twitter/follow/thekevinevans?logo=twitter&style=for-the-badge" alt="thekevinevans" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on Azure Landing Zones and AKS in Azure cloud ☁️**
+- 🔭 I’m currently working on **Azure Landing Zones and AKS in Azure cloud ☁️**
 
-- 🌱 I’m currently learning **I’m currently learning Bicep 💪 & Terraform 🏗️**
+- 🌱 I’m currently learning **Bicep 💪 & Terraform 🏗️**
 
-- 💬 Ask me about **Ask me about Azure infrastructure \ IaC practices 🛠️**
+- 💬 Ask me about ** Azure infrastructure \ IaC practices 🛠️**
 
 - ⚡ Fun fact **Movie Buff 🎥**
 
