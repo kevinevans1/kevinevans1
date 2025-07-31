@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Evans</h1>
-<h3 align="center">Cloud Solution Architect @ Microsoft</h3>
+<h3 align="center"> Cloud & AI Platforms Solutions Engineering Lead @ Microsoft</h3>
 
 <p align="center">
   <a href="https://twitter.com/thekevinevans" target="_blank">
@@ -14,7 +14,7 @@
 # Kevin Evans 🚀  
 
 ## Overview 🏆  
-Kevin Evans is a **senior technical specialist** at Microsoft with over **25 years of experience** in the technology sector, specializing in **cloud-native technologies** ☁️. He is widely recognized as a **thought leader** in cloud computing and actively contributes to the **Cloud Native Computing Foundation (CNCF)** 🌍.  
+Kevin Evans is a **Cloud & AI Platforms Solutions Engineering Lead** at Microsoft with over **25 years of experience** in the technology sector, specializing in **cloud-native technologies** ☁️. He is widely recognized as a **thought leader** in cloud computing and actively contributes to the **Cloud Native Computing Foundation (CNCF)** 🌍.  
 
 ## Professional Contributions 💡  
 - **Cloud Leadership** ☁️: Driving cloud adoption and best practices, particularly within Microsoft cloud solutions.  
