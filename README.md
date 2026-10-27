@@ -1,66 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kevin Evans</h1>
-<h3 align="center">Senior Strategic Solutions Engineer @ Cloudflare — Developer Platforms, Applications & AI</h3>
+# Hi, I'm Kevin Evans 👋
 
-<p align="center">
-  <a href="https://twitter.com/thekevinevans" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/thekevinevans?logo=x&style=for-the-badge" alt="thekevinevans" />
-  </a>
-</p>
+**Founder of [Code To Cloud](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1). I help teams ship AI agents to production on Azure and GitHub.**
 
----
+It's never the vendor. It's the engineering around it. When agentic tooling falls apart against a real codebase, the fix is almost never a better model. It's the harness: the context, guardrails, permissions and feedback loops that separate an impressive demo from something you'd let near production.
 
-### About Me
+- 🏗️ **Building:** Azure landing zones, AI platforms on Microsoft Foundry, agentic DevOps with GitHub Copilot and Actions, and app modernization for enterprise and mid-market teams.
+- 🧭 **Background:** Microsoft (most recently Senior Solutions Engineer) and Cloudflare (Senior Strategic Solutions Engineer, developer platforms and AI).
+- 🌍 **Community:** CNCF Ambassador and Calgary chapter lead. Built Calgary's cloud-native community through Code To Cloud YYC meetups and Code To Cloud Days.
+- 🎙️ **Podcast:** host of [Code To Cloud](https://codetocloud.io/podcast/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1), with guests including Gene Kim, Solomon Hykes and Bret Fisher.
+- 📚 **Teaching:** author of the O'Reilly course *Becoming a Cloud Solutions Architect: A Career Roadmap for Absolute Beginners*.
 
-I'm a Senior Strategic Solutions Engineer at **Cloudflare**, focused on developer platforms, application architecture, and AI — helping engineering teams design, migrate, and scale on Cloudflare's network, from Workers, Pages, R2, and D1 through to Zero Trust and edge security. Before Cloudflare, I spent nine years at Microsoft working across cloud infrastructure, identity, security, and AI.
+## Recent talks
 
-I'm a **CNCF Ambassador**, host of the **Code to Cloud** podcast, and an active builder of the Alberta tech community.
+- **The Agentic Shift** (keynote, Prairie Dev Con Winnipeg 2026): where AI platforms and "vibe coding" hold up, and where engineering teams should focus.
+- **Modernizing Applications with Agentic DevOps** (Prairie Dev Con Winnipeg 2026): containerizing and re-platforming a legacy system with AI agents, live.
 
-**Speaking:**
-- 🎤 **Prairie Dev Con Winnipeg 2026** — *"Modernizing Applications with Agentic DevOps"*: live containerization, CI/CD wiring, and re-platforming a legacy system with autonomous AI agents, plus the guardrails and harness engineering that make agentic systems production-ready
-- 🎤 **Prairie Dev Con Winnipeg 2026 (Keynote)** — *"The Agentic Shift: AI Platforms, Vibe Coding, and Where Engineering Teams Should Focus in 2026"*: a framework for evaluating AI platform investments, what's changing for engineering teams, and live demos of where "vibe coding" holds up and where it doesn't
+Slides and demo code: [prairie-dev-con-2026-talks](https://github.com/codetocloudorg/prairie-dev-con-2026-talks).
 
-**Community:**
-- 🎙️ Founder & host, [**Code to Cloud**](https://codetocloud.io) — a podcast on cloud architecture, security, and engineering
-- 🌍 **CNCF Ambassador**
-- 🤝 Organizer of an Alberta cloud-native/DevOps conference, and active in growing the Alberta tech ecosystem
+## Open source
 
----
+| Project | What it is |
+|---|---|
+| [intro-to-microsoft-foundry](https://github.com/codetocloudorg/intro-to-microsoft-foundry) | Hands-on Microsoft Foundry workshop: Bicep, a versioned agent and an evaluation gate. |
+| [azure-agentic-engineering](https://github.com/codetocloudorg/azure-agentic-engineering) | Practices for building agentic AI platforms on Azure. |
+| [platform-engineering](https://github.com/codetocloudorg/platform-engineering) | Resources and templates for platform engineering teams. |
+| [nova-desk-companion](https://github.com/codetocloudorg/nova-desk-companion) | A voice desk companion for Claude Code on an ESP32-S3 board. |
+| [cloudflare-well-architected](https://github.com/kevinevans1/cloudflare-well-architected) | Independent, community-maintained Well-Architected Framework for Cloudflare. |
 
-### Connect with Me
+## Connect
 
-- 🌐 [codetocloud.io](https://codetocloud.io)
-- 🐦 [@thekevinevans](https://twitter.com/thekevinevans)
+[codetocloud.io](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1) ·
+[Free resources](https://codetocloud.io/resources/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1) ·
+[LinkedIn](https://www.linkedin.com/in/kevinevans01/) ·
+[X](https://x.com/thekevinevans) ·
+[YouTube](https://www.youtube.com/@Code-To-Cloud)
 
----
-
-### Languages and Tools
-
-<p align="left">
-  <a href="https://developers.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>
-  </a>
-  <a href="https://developers.cloudflare.com/workers/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="cloudflare workers" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+**Tools I work with:** Azure, GitHub Actions and Copilot, Microsoft Foundry, Bicep, Terraform, Kubernetes, Docker, Cloudflare, Linux.
