@@ -1,10 +1,10 @@
 # Hi, I'm Kevin Evans 👋
 
-**Founder of [Code To Cloud](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1). I help teams ship AI agents to production on Azure and GitHub.**
+**Founder of [Code To Cloud](https://codetocloud.io/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1). I help teams build Azure platforms their developers want to use, and ship AI agents to production.**
 
 It's never the vendor. It's the engineering around it. When agentic tooling falls apart against a real codebase, the fix is almost never a better model. It's the harness: the context, guardrails, permissions and feedback loops that separate an impressive demo from something you'd let near production.
 
-- 🏗️ **Building:** Azure landing zones, AI platforms on Microsoft Foundry, agentic DevOps with GitHub Copilot and Actions, and app modernization for enterprise and mid-market teams.
+- 🏗️ **Building:** Azure landing zones, developer platforms on GitHub and Red Hat OpenShift, AI platforms on Microsoft Foundry, agentic DevOps with GitHub Copilot and Actions, and app modernization for enterprise and mid-market teams.
 - 🧭 **Background:** Microsoft (most recently Senior Solutions Engineer) and Cloudflare (Senior Strategic Solutions Engineer, developer platforms and AI).
 - 🏅 **Recognition:** [Microsoft MVP for Azure](https://codetocloud.io/blog/microsoft-mvp-azure-kevin-evans/?utm_source=github&utm_medium=readme&utm_campaign=kevinevans1) (Azure Operations & Management, 2026–2027).
 - 🌍 **Community:** CNCF Ambassador and Calgary chapter lead. Built Calgary's cloud-native community through Code To Cloud YYC meetups and Code To Cloud Days.
